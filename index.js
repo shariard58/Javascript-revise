@@ -1,1 +1,1 @@
-console.log("This is Sharair Duke");
+console.log("This is for the variable var , let and const");
